@@ -1,5 +1,5 @@
 # devops-aula-4 atividade 1
-filmes favoritos
+5 filmes favoritos
 - carros
 - ToyStory
 - rise
